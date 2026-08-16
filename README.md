@@ -70,7 +70,7 @@ list of the available ports for Switch.
 ### PC
 | Game | Game Updated? | Date Recompiled/Updated |  
 | --- | --- | --- |  
-| SM64ex | ??? | 08/07/2026 |  
+| [SM64ex](https://github.com/robzilla10001/mspr/blob/main/sm64ex.zip) | ??? | 08/07/2026 |  
 
 ⎯ [Top](#toc)  
 
