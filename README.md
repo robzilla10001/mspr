@@ -11,6 +11,14 @@ list of the available ports for Switch.
 
 ## Updated/Recompiled Ports
 
+See /zips folder for untested, updated ports. As they are tested and provenance is proven, they will
+be added to lists below, and, eventually, mirrored to the SwitchPorts repository. All files (unless
+otherwise noted) are zipped with a folder inside; this folder should be dropped into sdmc:/switch
+whole. You will then need to add the required resource files to make these ports work.
+If you test any of these files, please submit a PR to update this readme with the correct information
+and use the upload date as the "Date Recompiled/Updated" field value. NOTE: Files larger than 25mb
+were split using 7z. You will need to install 7z to un-extract those archives most likely.
+
 ## TOC
 ⎯ [Emulators](#emulators)  
 ⎯ [Android](#android)  
