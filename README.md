@@ -1,3 +1,12 @@
+<div align="center">IMPORTANT NOTICE  
+  
+10/09/2026: HOS 23.0.0 RELEASED  
+
+Do not update your firmware until Atmosphere is updated (I would personally wait on BornToHonk's fork,
+as sys-patches are baked in). Even once Atmosphere has been updated, we do not currently know what
+changes have been made, so we don't know how loading homebrew will be affected. Would highly recommend
+waiting on a new release of libnx/DevKitPro as well. Just to be sure all bases are covered.</div>
+
 # mspr - My Switch Ports Repo
 
 ## What is this?
