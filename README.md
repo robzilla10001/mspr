@@ -1,8 +1,8 @@
 <div align="center">IMPORTANT NOTICE  
   
-15/10/2026: ATMOSPHERE 1.12.1 FOR HOS 23.0.1 RELEASED  
+16/10/2026: ATMOSPHERE 1.12.1 FOR HOS 23.0.1 RELEASED  
 
-Atmosphere has been updated; await BornToHonk's fork for baked in sigpatches.</div>
+Atmosphere has been updated; BornToHonk's fork released with baked in sigpatches.</div>
 
 # mspr - My Switch Ports Repo
 
