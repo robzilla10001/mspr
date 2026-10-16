@@ -1,9 +1,8 @@
 <div align="center">IMPORTANT NOTICE  
   
-29/09/2026: ATMOSPHERE 1.12.0 FOR HOS 23.0.0 RELEASED  
+15/10/2026: ATMOSPHERE 1.12.1 FOR HOS 23.0.1 RELEASED  
 
-Atmosphere has been updated and BornToHonk's fork has been as well. DNS MITM is currently broken.
-It is not recommended to upgrade yet. If you do, block Nintendo servers via pi-hole or other DNS solution.</div>
+Atmosphere has been updated; await BornToHonk's fork for baked in sigpatches.</div>
 
 # mspr - My Switch Ports Repo
 
